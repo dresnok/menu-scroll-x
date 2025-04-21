@@ -100,8 +100,8 @@
 
 
 
-<div id="app1"></div>
-<div id="app2"></div>
+<div id="app1" style="width:500px;"></div>
+<div id="app2" style="width:500px;"></div>
 
   <!-- Menu 1 -->
 <template id="template1">
