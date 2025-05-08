@@ -6,8 +6,8 @@ Projekt demonstruje trzy wersje poziomego menu zbudowanego w Vue 3. Każde z nic
 
 ## 🔗 Live Demo
 
-👉 [Zobacz demo](http://asperion24.eu/github/menu-scroll-x/menu-scroll-x.php)  
-👉 [Zobacz demo](http://asperion24.eu/github/menu-scroll-x-all/menu-scroll-x-all.php) 
+👉 [Zobacz demo](http://company12.atwebpages.com/?next=menu-scroll-x)  
+👉 [Zobacz demo](http://company12.atwebpages.com/?menu-scroll-x-all.php) 
 
 ## 📝 Uwagi dotyczące stylów demonstracyjnych
 
