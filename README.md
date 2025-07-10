@@ -6,8 +6,8 @@ Projekt demonstruje trzy wersje poziomego menu zbudowanego w Vue 3. Każde z nic
 
 ## 🔗 Live Demo
 
-👉 [Zobacz demo](http://company12.atwebpages.com/?next=menu-scroll-x)  
-👉 [Zobacz demo](http://company12.atwebpages.com/?next=menu-scroll-x-all) 
+👉 [Zobacz demo - menu-scroll-x](http://company12.atwebpages.com/?next=menu-scroll-x)  
+👉 [Zobacz demo - menu-scroll-x-all](http://company12.atwebpages.com/?next=menu-scroll-x-all) 
 
 ## 📝 Uwagi dotyczące stylów demonstracyjnych
 
